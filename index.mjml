@@ -54,7 +54,7 @@
       <mj-section>
         <mj-column>
           <mj-image
-            src="http://127.0.0.1:5500/assets/image.jpg"
+            src="https://mcusercontent.com/d7f5ddea78f306ae73fdf52a5/images/5251a80a-fdbf-d3a4-df48-b60800c7b63b.jpg"
             alt="image"
             href="https://shopify.com/blog"
             padding-bottom="20px"
@@ -126,9 +126,9 @@
         <mj-group>
           <mj-column padding="0">
             <mj-image
-              src="http://127.0.0.1:5500/assets/appstore.png"
+              src="https://mcusercontent.com/d7f5ddea78f306ae73fdf52a5/images/3cdf44ed-34fd-cfb2-1eca-b8d9b653abb9.png"
               alt="appstore"
-              href="https://apple.com"
+              href="https://apps.apple.com/us/app/shopify-your-ecommerce-store/id371294472"
               width="150px"
               height="43px"
               align="right"
@@ -137,9 +137,9 @@
           </mj-column>
           <mj-column padding="0">
             <mj-image
-              src="http://127.0.0.1:5500/assets/android.png"
+              src="https://mcusercontent.com/d7f5ddea78f306ae73fdf52a5/images/a97dbe18-0538-f37b-5887-0321c2e6e749.png"
               alt="googlestore"
-              href="https://apple.com"
+              href="https://play.google.com/store/apps/details?id=com.shopify.mobile&hl=en_US&gl=US"
               width="150px"
               height="43px"
               align="left"
